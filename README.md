@@ -4,9 +4,6 @@
 
 
 
-Hao Guo, N 13306807
-
-NYU Tandon School of Engineering
 
 This is for the final project of FRE-GY 6331 Financial Risk Management and Optimization 
 
